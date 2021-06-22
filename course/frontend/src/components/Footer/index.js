@@ -1,0 +1,12 @@
+import * as S from './styles'
+
+
+function Footer() {
+    return(
+        <S.Container>
+            <span>ToDo - Organizando a vida</span>
+        </S.Container>
+    );
+}
+
+export default Footer
